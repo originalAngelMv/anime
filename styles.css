@@ -1,0 +1,24 @@
+span{
+    color: royalblue
+}
+
+body{
+    background-color: rgb(119, 92, 143);
+}
+
+.titulos-para-animes{
+    background-color: brown;
+}
+
+h1{
+    font-size: 50px;
+
+}
+
+p{
+    font-size: 25px;
+}
+
+#parrafo-1{
+    color:chartreuse;
+}
