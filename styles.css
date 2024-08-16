@@ -16,9 +16,27 @@ h1{
 }
 
 p{
-    font-size: 25px;
+    font-size: 200%;
 }
 
 #parrafo-1{
     color:chartreuse;
+}
+
+#Gracias{
+    font-size: 25px;
+}
+
+p{
+    font-family: 'Lucida Sans';
+}
+
+.Personajes{
+    font-size: 30px;
+}
+
+h3{
+    color: darkgreen;
+    font-weight: bolder;
+    font-size: 400%;
 }
